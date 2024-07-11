@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "87e034d3-fcda-475a-83d3-009197a6cbef",
+      "name": "Shubham Taware",
+      "email": "Shub@gmail.com"
+    },
+    {
+      "id": "0c7c926d-7c7e-4c3c-bc88-a0965340bcb3",
+      "name": "Shub Medankar",
+      "email": "shubhamMed@gmail.com"
+    },
+    {
+      "id": "4bab5871-c03e-4ead-b447-05e15d09f47a",
+      "name": "Mohan Talavar",
+      "email": "mohan@gmail.com"
+    }
+  ]
+}
